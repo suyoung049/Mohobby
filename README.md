@@ -112,12 +112,6 @@
 - 메시지 기능
   - 쪽지
 
-![img](README.assets/hobby_create-16718934353387.gif)
-
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9bb12d52-d6cb-4854-ae04-1e653009781c/accounts_detail.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221224T145301Z&X-Amz-Expires=86400&X-Amz-Signature=57a18ccfc05f2db429c05b76560339561da57159a47041c9751f50c2cb6a12d0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22accounts_detail.png%22&x-id=GetObject)
-
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/edacf6c2-688c-4dea-8b8d-7d201f2a3ed6/message.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221224T145229Z&X-Amz-Expires=86400&X-Amz-Signature=a5841b023892f86ec3f96d5648c0eed77558fb94e85fa756e31ab35857a4ffa4&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22message.png%22&x-id=GetObject)
-
 ## 4. Products
 
 - 모든 취미관련 물품 거래를 위한 만물상
